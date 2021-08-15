@@ -9,5 +9,6 @@ public class maya {
    }
 
       System.out.println("Sum of "+a+b+" numbers: "+sum);
+ System.out.println("Sum of "+a+b+" numbers: "+sum);
 
 }
